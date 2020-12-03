@@ -1,2 +1,2 @@
 # crispy-happiness
-AirBnb replica
+My early attempt to make an AirBnb replica
