@@ -1,2 +1,2 @@
 # crispy-happiness
-My early attempt to make an AirBnb replica
+My early attempt to replicate the Airbnb hero
